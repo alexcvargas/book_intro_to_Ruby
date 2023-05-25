@@ -1,0 +1,6 @@
+# you've opened the .gitignore hidden file within this directory.
+# you can add any file extensions you'd like git to ignore here
+# if you want to ignore a particular file type, then ref to the following:
+# db/* .txt
+# the  above example will ignore all files with the file extension .txt in within the db dir
+
