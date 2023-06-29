@@ -6,7 +6,12 @@
 # $ gem install rubocop -v 1.51.0
 # $ rubocop -v
 
-cd book_intro_to_ruby/ch_1_basics/intro_ref/book_ref
+cd book_intro_to_ruby/ch_2_variables/intro_ref/book_ref
+cd book_intro_to_ruby/ch_2_variables/exercises
+
+irb --nomultiline
+
+# git push -u origin main
 
 # and if you need to uninstall a previous version you can type:
 # $ gem uninstall rubocop --version 1.52.0
